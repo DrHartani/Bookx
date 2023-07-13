@@ -1,0 +1,2 @@
+# Bookx
+This repository contains free and online books projects about Statistics, data Sciences, R programming, Python, Machine learning and Deep learning.
